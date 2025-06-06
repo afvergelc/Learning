@@ -1,1 +1,0 @@
-SELECT COUNT(age) FROM hello_mysql.users HAVING COUNT(age) > 3 -- This query counts the number of non-null values in the 'age' column from the 'users' table in the 'hello_mysql' database, and filters the results to only include counts greater than 3.
