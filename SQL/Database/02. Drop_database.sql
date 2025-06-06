@@ -1,0 +1,1 @@
+DROP DATABASE test; -- This will drop the database named 'test'.

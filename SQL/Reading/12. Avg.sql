@@ -1,0 +1,1 @@
+SELECT avg(age) FROM hello_mysql.users; -- This query calculates the average value of the 'age' column from the 'users' table in the 'hello_mysql' database.
